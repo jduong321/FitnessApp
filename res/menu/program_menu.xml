@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:actvity_main.xml="http://schemas.android.com/apk/res-auto">>
+    <item android:id="@+id/createProgram"
+        android:title="Create Program"
+        actvity_main.xml:showAsAction="always"
+        />
+</menu>
